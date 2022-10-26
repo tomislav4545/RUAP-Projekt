@@ -6,7 +6,7 @@ namespace LV1_zad1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Tomislava Barbarića.");
+            Console.WriteLine("Pozdrav iz aplikacije od Tomislava Barbarića. Broj indeksa: 0165081277");
         }
     }
 }
